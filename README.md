@@ -9,8 +9,7 @@ This project integrates OpenAI's GPT model to generate responses based on user p
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/arslan-ahmad-dev/chatgpt-bot-api
+   cd chatgpt-bot-api
 
 2. python app.py
